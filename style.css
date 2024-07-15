@@ -1,0 +1,9 @@
+body {
+    background: url(./p4.jpeg)center/cover;
+}
+h1 {
+   text-align: center;
+   text-transform: uppercase;
+   letter-spacing: 3px;
+   color:#000000 ;
+}
